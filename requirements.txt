@@ -1,1 +1,2 @@
 Pandas == 1.5.3
+pip install pipreqs
